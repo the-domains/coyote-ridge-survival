@@ -1,5 +1,6 @@
-layout_spectrum: 0.9807379541452974
 typography_spectrum: 0.5439915051683784
+content_rating:
+  adult: false
 color:
   brandStrength: 0.42915309383533895
   lightness: 0.5111168583389372
@@ -11,13 +12,12 @@ color:
     - '#2B2029'
     - '#554843'
     - '#7E6E4F'
-content_rating:
-  adult: false
 opengraph:
   type: Coyote Ridge Survival Supplies
   appId: 'https://www.facebook.com/CoyoteRidgeSurvival/#'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5c66e97-c2c1-4590-93c0-9cc20193708b.jpg
+layout_spectrum: 0.9807379541452974
 author:
   name: Greg Griffith
   email: ggriffith@coyoteridgesurvival.com
@@ -25,4 +25,8 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf0c17c7-0b1f-4afb-982d-a50f6c611b4d.png
 name: Coyote Ridge Survival Supplies
+navigation:
+  - name: About Us
+    id: 2b407485-1bd6-4322-8d2b-eb03e6887a50
+    type: content
 title: 'Expect the worst, hope for the best, prepare for anything.'
