@@ -1,23 +1,23 @@
-typography_spectrum: 0.2967098120134324
+layout_spectrum: 0.9807379541452974
+typography_spectrum: 0.5439915051683784
+color:
+  brandStrength: 0.42915309383533895
+  lightness: 0.5111168583389372
+  saturation: 0.40248418669216335
+  rhythmicContrast: 0.87447180878371
+  brandColors:
+    - '#9B8442'
+    - '#FEEC01'
+    - '#2B2029'
+    - '#554843'
+    - '#7E6E4F'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.6686358484439552
-  lightness: 0.3881754220928997
-  saturation: 0.8590257507748902
-  rhythmicContrast: 0.31036537629552186
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
 opengraph:
   type: Coyote Ridge Survival Supplies
   appId: 'https://www.facebook.com/CoyoteRidgeSurvival/#'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5c66e97-c2c1-4590-93c0-9cc20193708b.jpg
-layout_spectrum: 0.14050932019017637
 author:
   name: Greg Griffith
   email: ggriffith@coyoteridgesurvival.com
