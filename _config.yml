@@ -1,6 +1,13 @@
+name: Coyote Ridge Survival Supplies
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf0c17c7-0b1f-4afb-982d-a50f6c611b4d.png
+layout_spectrum: 0.4611302516423166
 typography_spectrum: 0.16517891339026392
-content_rating:
-  adult: false
+opengraph:
+  type: Coyote Ridge Survival Supplies
+  appId: '@CoyoteRidgeSurvival'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5c66e97-c2c1-4590-93c0-9cc20193708b.jpg
 color:
   brandColors:
     - '#9B8442'
@@ -12,19 +19,13 @@ color:
   lightness: 0.5111168583389372
   saturation: 0.40248418669216335
   rhythmicContrast: 0.87447180878371
-opengraph:
-  type: Coyote Ridge Survival Supplies
-  appId: '@CoyoteRidgeSurvival'
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5c66e97-c2c1-4590-93c0-9cc20193708b.jpg
-layout_spectrum: 0.4611302516423166
+title: Prepare for anything.
 author:
   name: The Coyote Ridge Team
   url: www.coyoteridgesurvival.com
   email: ggriffith@coyoteridgesurvival.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf0c17c7-0b1f-4afb-982d-a50f6c611b4d.png
-name: Coyote Ridge Survival Supplies
+content_rating:
+  adult: false
 navigation:
   - name: About Us
     id: 2b407485-1bd6-4322-8d2b-eb03e6887a50
@@ -35,5 +36,3 @@ navigation:
   - name: Shop Our Store
     url: 'https://squareup.com/store/coyote-ridge-survival-supplies'
     type: external
-title: 'Expect the worst, hope for the best, prepare for anything.'
-description: For the budget minded prepper.
