@@ -1,5 +1,6 @@
-layout_spectrum: 0.4611302516423166
 typography_spectrum: 0.16517891339026392
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#9B8442'
@@ -11,13 +12,12 @@ color:
   lightness: 0.5111168583389372
   saturation: 0.40248418669216335
   rhythmicContrast: 0.87447180878371
-content_rating:
-  adult: false
 opengraph:
   type: Coyote Ridge Survival Supplies
   appId: '@CoyoteRidgeSurvival'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5c66e97-c2c1-4590-93c0-9cc20193708b.jpg
+layout_spectrum: 0.4611302516423166
 author:
   name: Greg Griffith
   url: www.coyoteridgesurvival.com
