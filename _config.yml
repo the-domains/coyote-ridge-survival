@@ -32,5 +32,8 @@ navigation:
   - name: OUR FRIENDS
     id: 1a87f8ee-c3b0-4836-a706-3572ba860a1f
     type: content
+  - name: Shop Our Store
+    url: 'https://squareup.com/store/coyote-ridge-survival-supplies'
+    type: external
 title: 'Expect the worst, hope for the best, prepare for anything.'
 description: For the budget minded prepper.
