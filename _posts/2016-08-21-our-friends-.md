@@ -1,29 +1,18 @@
 ---
-datePublished: '2016-08-21T18:08:02.053Z'
-sourcePath: _posts/2016-08-21-our-friends-.md
-author: []
-via: {}
-metadata:
-  description: OUR FRIENDS -
-  dateModified: '2016-08-21T17:48:24.722Z'
-  datePublished: '2016-08-21T17:48:24.722Z'
-  title: ''
-  author: []
-  publisher: {}
-  via: {}
-  sourcePath: _posts/2016-08-21-our-friends-.md
-dateModified: '2016-08-21T18:08:01.723Z'
 title: OUR FRIENDS
-id: 1a87f8ee-c3b0-4836-a706-3572ba860a1f
+datePublished: '2016-08-22T06:32:43.302Z'
+dateModified: '2016-08-22T06:32:42.924Z'
 publisher: {}
+author: []
 description: >-
   Here you will find the websites of people that we have come to know in the
   industry, and are proud to call our friends.
-starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+via: {}
+hasPage: true
+starred: true
+sourcePath: _posts/2016-08-21-our-friends-.md
+url: our-friends/index.html
+_type: Blurb
 
 ---
 ![Blue Ridge near Staunton](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4487a190-1050-49a0-ac7f-705f270ed3a5.jpg)
