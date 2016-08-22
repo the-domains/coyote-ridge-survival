@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Expect the worst, hope for the best, prepare for anything.]]></title>
         <description><![CDATA[Expect the worst, hope for the best, prepare for anything.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coyote-ridge-survival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 05:08:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Aug 2016 05:10:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coyote-ridge-survival/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Water Purification]]></title>
             <description><![CDATA[<article><h1>Water Purification</h1><p>One of the top survival priorities in an emergency is to find and disinfect enough drinking water to supply your needs. Whether your crisis situation is unfolding in the desert after becoming lost or in your own home after a natural disaster, the human body can only last three days without any drinking water at all.</p></article>]]></description>
             <link>http://www.outdoorlife.com/photos/gallery/2015/01/survival-skills-10-ways-purify-water</link>
             <guid isPermaLink="false">d02c957c-9cf8-401a-b70d-8031ea328c2e</guid>
-            <pubDate>Mon, 22 Aug 2016 04:05:42 GMT</pubDate>
+            <pubDate>Mon, 22 Aug 2016 04:56:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
